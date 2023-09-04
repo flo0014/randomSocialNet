@@ -3,12 +3,14 @@
 
 ### 04-09-2023
 
-Travail sur la logique de travail de recupération de sources sur internet en fonction des mots-clés saisie.
+- Travail sur la logique de travail de recupération de sources sur internet en fonction des mots-clés saisie.
+- Mise en place de l'environement de développement :
+	utiliser [source randomsocialnet/bin/activate] pour vous y connecter
 
 ### 03-09-2023
 
-Changement de plan Electron : je ne suis pas fan...
-On passe à Python + QT + SQLie
+- Changement de plan Electron : je ne suis pas fan...
+- On passe à Python + QT + SQLie
 
 
 ### 01-09-2023
