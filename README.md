@@ -5,9 +5,10 @@
 
 - Travail sur la logique de travail de recupération de sources sur internet en fonction des mots-clés saisie.
 - Mise en place de l'environement de développement :
-	utiliser [source randomsocialnet/bin/activate] pour vous y connecter
-
-### 03-09-2023
+	- pour vous y connecter 
+		```
+		source randomsocialnet/bin/activate
+		``` 
 
 - Changement de plan Electron : je ne suis pas fan...
 - On passe à Python + QT + SQLie
