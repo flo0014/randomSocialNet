@@ -12,7 +12,7 @@ def connect_to_database(db_path):
 
 # Example usage:
 if __name__ == "__main__":
-    db_path = "database/app_data.db"  # Replace with the actual path to your SQLite database file
+    db_path = "../database/app_data.db"  # Replace with the actual path to your SQLite database file
     connection = connect_to_database(db_path)
 
     # Don't forget to close the connection when done
@@ -43,7 +43,7 @@ def create_tables(conn):
 
 # Creating tables on script run
 if __name__ == '__main__':
-    db_path = 'database/app_data.db'
+    db_path = '../database/app_data.db'
     conn = connect_to_database(db_path)
     if conn:
         create_tables(conn)
